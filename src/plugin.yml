@@ -1,0 +1,5 @@
+name: UHCPlugin
+main: fr.gwenzy.uhc.main.UHCPlugin
+author: Gwenzy
+version: 1.0
+commands:
