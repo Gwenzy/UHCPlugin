@@ -21,12 +21,14 @@ public class UHCPlugin extends JavaPlugin{
 		log=s.getLogger();
 		TAG = ChatColor.RED+"[UHCPlugin]"+ChatColor.GOLD;
 		log.info("Plugin enabled.");
+		this.saveDefaultConfig();
+		config = this.getConfig();
 	}
 	
 	@Override
 	public void onDisable()
 	{
-		
+		log.info("Plugin Disabled");
 	}
 
 }

@@ -1,0 +1,23 @@
+title:
+teamnumber:
+maxplayers:
+minpvp:
+bordure:
+  actual:
+    x:
+    z:
+  retr:
+    time:
+    dist:
+  min:
+    x:
+    z:
+config:
+  potion1:
+  potion2:
+  pommes: 
+  timeperep:
+timer:
+  min:
+  sec:
+paused: false
