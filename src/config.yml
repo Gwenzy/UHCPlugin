@@ -1,23 +1,23 @@
-title:
-teamnumber:
-maxplayers:
-minpvp:
+title: UHC By Gwenzy
+teamnumber: 4
+maxplayers: 16
+minpvp: 20
 bordure:
   actual:
-    x:
-    z:
+    center:
+      x:
+      z:
+    size:
   retr:
     time:
     dist:
-  min:
-    x:
-    z:
+  minsize: 10
 config:
-  potion1:
-  potion2:
-  pommes: 
-  timeperep:
+  potion1: true
+  potion2: false
+  pommes: false
+  timeperep: 20
 timer:
-  min:
-  sec:
+  min: 20
+  sec: 0
 paused: false
